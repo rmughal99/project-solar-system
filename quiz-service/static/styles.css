@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@400;500;700&display=swap");
+body {
+  background-color: grey;
+}
+h1 {
+  text-align: center;
+  border: 3px solid black;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+p {
+  font-family: Sora;
+}
